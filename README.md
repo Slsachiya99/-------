@@ -4,9 +4,9 @@
 
 
 
-# Setup For Deployment 👇
+# බොට් ඩිවලොප් කරන්න  👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/fork)
+- බොට් ෆ්‍රොක් කරන්න FORK THE REPOSITORY [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nipunarangana/Blue-Lione-Bot?v=1)
