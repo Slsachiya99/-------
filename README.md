@@ -1,6 +1,6 @@
 <h1 align="center">  𝕊𝕃-𝔹𝕃𝔸ℂ𝕂-𝕋𝕀𝔾𝔼ℝ-𝔹𝕆𝕋 <br></h1>
 <p align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F9958830a-d24e-475c-bae2-ac3819d7bd24%2Fddpe4hh-d217239e-c844-4c60-b16a-5d0df95b307e.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5NTg4MzBhLWQyNGUtNDc1Yy1iYWUyLWFjMzgxOWQ3YmQyNFwvZGRwZTRoaC1kMjE3MjM5ZS1jODQ0LTRjNjAtYjE2YS01ZDBkZjk1YjMwN2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.su0vtIax94WaKgdHqLgILS4WbvbCC_cuYLHDMM5aEFQ&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fefforfake%2Fart%2FDark-Tiger-Wallpaper-828709685&tbnid=VmVeMy4M81HUCM&vet=1&docid=Eu0REAkJXblWTM&w=1080&h=2340&source=sh%2Fx%2Fim" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://i.imgur.com/XHhlqtK.jpeg" border="0">
 
 
 
